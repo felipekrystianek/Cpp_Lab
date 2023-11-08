@@ -1,0 +1,11 @@
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/Cpp_Lab.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/losowe.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/tablice.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/talice3.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/lab4.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/lab4_3.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/lab4_zad1.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/lab4_zad2.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/lab4_zad3.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

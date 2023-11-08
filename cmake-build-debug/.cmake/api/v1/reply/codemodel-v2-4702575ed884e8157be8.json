@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cpp_Lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cpp_Lab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cpp_Lab-Debug-bad50b56ec9cf70c949a.json",
+					"name" : "Cpp_Lab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4-Debug-7471d9fc5957b2db51ee.json",
+					"name" : "lab4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_3-Debug-d099bec5c61fcc24ef80.json",
+					"name" : "lab4_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_zad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_zad1-Debug-1037b576e420cd3ab0f8.json",
+					"name" : "lab4_zad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_zad2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_zad2-Debug-b9b66902bcf5de7151d5.json",
+					"name" : "lab4_zad2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_zad3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_zad3-Debug-9e1103cd4792f85b744a.json",
+					"name" : "lab4_zad3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "losowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-losowe-Debug-76641c8cd221f43d96e5.json",
+					"name" : "losowe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tablice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tablice-Debug-c438ecf87ab870762075.json",
+					"name" : "tablice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "talice3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-talice3-Debug-053330c62f5ff9dd2521.json",
+					"name" : "talice3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/krystianfilipek/CLionProjects/Cpp_Lab/cmake-build-debug",
+		"source" : "/Users/krystianfilipek/CLionProjects/Cpp_Lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
